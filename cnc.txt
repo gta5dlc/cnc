@@ -1,0 +1,5 @@
+Prestige=4
+Rank=49
+XP=850
+Tokens=139000
+Intro=1
